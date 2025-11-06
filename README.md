@@ -25,7 +25,7 @@ pip install -U pygame
 # Run
 python main.py
 
-Controls
+# Controls
 Up Arrow: move paddle up
 
 Down Arrow: move paddle down
