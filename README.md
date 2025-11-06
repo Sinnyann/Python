@@ -19,8 +19,10 @@ python -m venv .venv
 # macOS/Linux
 source .venv/bin/activate
 
+# install
 pip install -U pygame
 
+# Run
 python main.py
 
 Controls
