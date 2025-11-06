@@ -10,13 +10,13 @@ Python 3.9+ (3.11 recommended)
 
 Pygame 2.x
 
-# optional: create & activate a virtualenv
+# Optional: Create & Activate A Virtualenv
 python -m venv .venv
 
-# Windows
+Windows:
 .venv\Scripts\activate
 
-# macOS/Linux
+:macOS/Linux
 source .venv/bin/activate
 
 # install
