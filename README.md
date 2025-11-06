@@ -22,4 +22,5 @@ python main.py
 
 Controls
 Up Arrow – move paddle up
+
 Down Arrow – move paddle down
