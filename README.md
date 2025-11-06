@@ -7,12 +7,15 @@ Quick Start
 1) Requirements
 
 Python 3.9+ (3.11 recommended)
+
 Pygame 2.x
 
 # optional: create & activate a virtualenv
 python -m venv .venv
+
 # Windows
 .venv\Scripts\activate
+
 # macOS/Linux
 source .venv/bin/activate
 
